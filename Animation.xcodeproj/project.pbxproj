@@ -12,6 +12,11 @@
 		0480CF3E1F6A76DE0005CDF1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0480CF3C1F6A76DE0005CDF1 /* Main.storyboard */; };
 		0480CF401F6A76DE0005CDF1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0480CF3F1F6A76DE0005CDF1 /* Assets.xcassets */; };
 		0480CF431F6A76DE0005CDF1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0480CF411F6A76DE0005CDF1 /* LaunchScreen.storyboard */; };
+		0480CF4F1F6A7BB90005CDF1 /* frame_0_delay-0.25s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0480CF4B1F6A77260005CDF1 /* frame_0_delay-0.25s.gif */; };
+		0480CF501F6A7BBD0005CDF1 /* frame_1_delay-0.25s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0480CF4C1F6A77270005CDF1 /* frame_1_delay-0.25s.gif */; };
+		0480CF511F6A7BC00005CDF1 /* frame_2_delay-0.25s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0480CF4D1F6A77270005CDF1 /* frame_2_delay-0.25s.gif */; };
+		0480CF521F6A7BC30005CDF1 /* frame_3_delay-0.25s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0480CF4A1F6A77260005CDF1 /* frame_3_delay-0.25s.gif */; };
+		0480CF531F6A7BC70005CDF1 /* frame_4_delay-0.25s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0480CF4E1F6A77270005CDF1 /* frame_4_delay-0.25s.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +27,11 @@
 		0480CF3F1F6A76DE0005CDF1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0480CF421F6A76DE0005CDF1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0480CF441F6A76DE0005CDF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0480CF4A1F6A77260005CDF1 /* frame_3_delay-0.25s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = "frame_3_delay-0.25s.gif"; path = "../../../../../Downloads/ezgif-1-334e63e11e-gif-im/frame_3_delay-0.25s.gif"; sourceTree = "<group>"; };
+		0480CF4B1F6A77260005CDF1 /* frame_0_delay-0.25s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = "frame_0_delay-0.25s.gif"; path = "../../../../../Downloads/ezgif-1-334e63e11e-gif-im/frame_0_delay-0.25s.gif"; sourceTree = "<group>"; };
+		0480CF4C1F6A77270005CDF1 /* frame_1_delay-0.25s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = "frame_1_delay-0.25s.gif"; path = "../../../../../Downloads/ezgif-1-334e63e11e-gif-im/frame_1_delay-0.25s.gif"; sourceTree = "<group>"; };
+		0480CF4D1F6A77270005CDF1 /* frame_2_delay-0.25s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = "frame_2_delay-0.25s.gif"; path = "../../../../../Downloads/ezgif-1-334e63e11e-gif-im/frame_2_delay-0.25s.gif"; sourceTree = "<group>"; };
+		0480CF4E1F6A77270005CDF1 /* frame_4_delay-0.25s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = "frame_4_delay-0.25s.gif"; path = "../../../../../Downloads/ezgif-1-334e63e11e-gif-im/frame_4_delay-0.25s.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +67,11 @@
 				0480CF381F6A76DE0005CDF1 /* AppDelegate.swift */,
 				0480CF3A1F6A76DE0005CDF1 /* ViewController.swift */,
 				0480CF3C1F6A76DE0005CDF1 /* Main.storyboard */,
+				0480CF4B1F6A77260005CDF1 /* frame_0_delay-0.25s.gif */,
+				0480CF4C1F6A77270005CDF1 /* frame_1_delay-0.25s.gif */,
+				0480CF4D1F6A77270005CDF1 /* frame_2_delay-0.25s.gif */,
+				0480CF4A1F6A77260005CDF1 /* frame_3_delay-0.25s.gif */,
+				0480CF4E1F6A77270005CDF1 /* frame_4_delay-0.25s.gif */,
 				0480CF3F1F6A76DE0005CDF1 /* Assets.xcassets */,
 				0480CF411F6A76DE0005CDF1 /* LaunchScreen.storyboard */,
 				0480CF441F6A76DE0005CDF1 /* Info.plist */,
@@ -123,9 +138,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0480CF511F6A7BC00005CDF1 /* frame_2_delay-0.25s.gif in Resources */,
+				0480CF4F1F6A7BB90005CDF1 /* frame_0_delay-0.25s.gif in Resources */,
 				0480CF431F6A76DE0005CDF1 /* LaunchScreen.storyboard in Resources */,
 				0480CF401F6A76DE0005CDF1 /* Assets.xcassets in Resources */,
+				0480CF531F6A7BC70005CDF1 /* frame_4_delay-0.25s.gif in Resources */,
 				0480CF3E1F6A76DE0005CDF1 /* Main.storyboard in Resources */,
+				0480CF501F6A7BBD0005CDF1 /* frame_1_delay-0.25s.gif in Resources */,
+				0480CF521F6A7BC30005CDF1 /* frame_3_delay-0.25s.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
